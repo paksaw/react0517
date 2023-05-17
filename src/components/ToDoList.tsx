@@ -117,7 +117,6 @@ function ToDoList() {
     // localStorage.clear();
   }, [categories]);
 
-  // console.log(categories, "categories");
   return (
     <>
       <Container>
